@@ -1,0 +1,15 @@
+C:\dev\aulas.fredi\bin\Debug\net6.0\aulas.fredi.exe
+C:\dev\aulas.fredi\bin\Debug\net6.0\aulas.fredi.deps.json
+C:\dev\aulas.fredi\bin\Debug\net6.0\aulas.fredi.runtimeconfig.json
+C:\dev\aulas.fredi\bin\Debug\net6.0\aulas.fredi.dll
+C:\dev\aulas.fredi\bin\Debug\net6.0\aulas.fredi.pdb
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.csproj.AssemblyReference.cache
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.AssemblyInfoInputs.cache
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.AssemblyInfo.cs
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.csproj.CoreCompileInputs.cache
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.dll
+C:\dev\aulas.fredi\obj\Debug\net6.0\refint\aulas.fredi.dll
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.pdb
+C:\dev\aulas.fredi\obj\Debug\net6.0\aulas.fredi.genruntimeconfig.cache
+C:\dev\aulas.fredi\obj\Debug\net6.0\ref\aulas.fredi.dll
